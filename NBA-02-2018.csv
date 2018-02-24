@@ -29,7 +29,7 @@ Team,Spurs,San Antonio,USA,AT&T Centre,19000,http://gmgames.org/dm16logos/Team26
 Team,Raptors,Toronto,Canada,Air Canada Centre,20000,http://gmgames.org/dm16logos/Team27.png,Atlantic,Toronto,Canada,,,,,,,,,,,,,,,,,,,,
 Team,Jazz,Utah,USA,Vivint Smart Home Arena,20000,http://gmgames.org/dm16logos/Team28.png,Northwest,Salt Lake City,Utah,,,,,,,,,,,,,,,,,,,,
 Team,Wizards,Washington,USA,Verizon Center,20000,http://gmgames.org/dm16logos/Team29.png,Southeast,Washincton,D.C,,,,,,,,,,,,,,,,,,,,
-NewFranchiseLogo,,,,,,https://github.com/minotauri/dynasty_manager_2016_rosters/raw/master/seattle-supersonics-logo.png,,,,,,,,,,,,,,,,,,,,,,,
+NewFranchiseLogo,,,,,,https://raw.githubusercontent.com/minotauri/dynasty_manager_2016_rosters/master/seattle-supersonics-logo.png,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Type,FirstName,Last Name,Position,Age,Height,Weight,Team ID,Defence,TurnOvers,FTA,FTPerc,2PTA,2PTPerc,3PTA,ThreePerc,OffReb,Fame,DefReb,FastBreak,Assists,Personality,Potential,Steals,Blocks,Stamina,Trait,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
